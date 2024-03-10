@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\Inventarium.csproj": {}
+    "c:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\Inventarium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\Inventarium.csproj": {
+    "c:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\Inventarium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\Inventarium.csproj",
+        "projectUniqueName": "c:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\Inventarium.csproj",
         "projectName": "Inventarium",
-        "projectPath": "C:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\Inventarium.csproj",
+        "projectPath": "c:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\Inventarium.csproj",
         "packagesPath": "C:\\Users\\SystemX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\obj\\",
+        "outputPath": "c:\\Users\\SystemX\\Desktop\\Projects\\Inventarium\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SystemX\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -28,3 +28,4 @@ c:\Users\SystemX\Desktop\Projects\Inventarium\obj\Debug\net8.0\refint\Inventariu
 c:\Users\SystemX\Desktop\Projects\Inventarium\obj\Debug\net8.0\Inventarium.pdb
 c:\Users\SystemX\Desktop\Projects\Inventarium\obj\Debug\net8.0\Inventarium.genruntimeconfig.cache
 c:\Users\SystemX\Desktop\Projects\Inventarium\obj\Debug\net8.0\ref\Inventarium.dll
+c:\Users\SystemX\Desktop\Projects\Inventarium\obj\Debug\net8.0\Inventarium.sourcelink.json
