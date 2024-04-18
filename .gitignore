@@ -1,0 +1,13 @@
+# Игнорировать файлы и папки по заданному шаблону
+
+# Файлы
+UpgradeLog.htm
+Inventarium.sln.DotSettings.user
+appsettings.json
+appsettings.Development.json
+
+# Папки
+obj/
+Properties/
+Backup/
+.idea/
